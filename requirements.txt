@@ -1,0 +1,3 @@
+# NexusZoo prototype - currently zero runtime dependencies (stdlib only)
+# Add numpy, matplotlib, pyyaml etc. here when extending the prototype.
+python>=3.10
